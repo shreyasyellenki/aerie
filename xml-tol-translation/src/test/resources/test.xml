@@ -1,0 +1,14 @@
+<XML_TOL>
+  <ResourceMetadata>
+    <ResourceSpec>
+      <Name>TestSystem</Name>
+      <Index level="0">FAKE-IDX</Index>
+      <DataType>float</DataType>
+      <Units>degrees</Units>
+      <Interpolation>constant</Interpolation>
+      <Maximum></Maximum>
+      <Minimum></Minimum>
+      <Subsystem>Geometry</Subsystem>
+    </ResourceSpec>
+  </ResourceMetadata>
+</XML_TOL>
